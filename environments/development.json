@@ -1,0 +1,9 @@
+{
+  "env": {
+    "region": "",
+    "account": ""
+  },
+  "organizationName": "",
+  "domainName": "",
+  "domainArnCert": ""
+}
